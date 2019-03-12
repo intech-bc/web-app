@@ -1,1 +1,4 @@
-Replace text with connection string to connect to database
+Replace this text with connection string to connect to database
+
+#run the following in your git environment "git update-index --assume-unchanged connectionString.txt"
+#to not track changes to this file.
